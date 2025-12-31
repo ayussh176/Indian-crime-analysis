@@ -36,12 +36,6 @@ This dashboard provides a high-level view of crime statistics in India, enabling
 
 ---
 
-## 🖼️ Dashboard Preview
-*(Tip: Add a screenshot of your dashboard to the `assets` folder and link it below)*
-![Dashboard Screenshot](path/to/your/image.png)
-
----
-
 ## 🧰 Tech Stack
 * **Visualization Tool**: Power BI Desktop
 * **Data Cleaning**: Power Query (M Language)
